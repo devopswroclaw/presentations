@@ -5,7 +5,9 @@ Presentations from previous meetups
 ===================================
 2016-08-30
 ----------
-- [Borys Łącki - DevOps Security](slides/devopswroclaw_2016-08-30/20160830-devops_security.pdf)
+- [Group updates / news / announcements](slides/devopswroclaw_2016-08-30/2016-08_Group_updates_news_announcements.pdf)
+- [Damian Adamowicz - From Monolith to uServices](slides/devopswroclaw_2016-08-30/Damian_Adamowicz_-_Essence_of_the_Cloud.pdf)
+- [Borys Łącki - DevOps Security](slides/devopswroclaw_2016-08-30/Borys_Lacki_-_DevOps_Security.pdf)
 
 2016-06-28
 ----------
