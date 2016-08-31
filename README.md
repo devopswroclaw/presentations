@@ -3,6 +3,10 @@
 
 Presentations from previous meetups
 ===================================
+2016-08-30
+----------
+- [Borys Łącki - DevOps Security](slides/devopswroclaw_2016-08-30/20160830-devops_security.pdf)
+
 2016-06-28
 ----------
 - [Group updates / news / announcements](slides/devopswroclaw_2016-06-28/2016-06_-_Group_updates_news_announcements.pdf)
