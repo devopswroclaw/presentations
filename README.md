@@ -7,7 +7,7 @@ Presentations from previous meetups
 ----------
 - [Group updates / news / announcements](https://github.com/devopswroclaw/presentations/raw/master/slides/devopswroclaw_2016-10-25/2016-10_Group_updates_news_announcements.pdf)
 - [Michał Łowicki - Introduction to Mesos and Marathon](https://github.com/devopswroclaw/presentations/raw/master/slides/devopswroclaw_2016-10-25/Michal_Lowicki_-_Intro_to_Mesos_and_Marathon.pdf)
-- Łukasz Hryniuk - Linux, Docker and GitLabCI CI
+- [Łukasz Hryniuk - Linux, Docker and GitLabCI CI](https://github.com/devopswroclaw/presentations/raw/master/slides/devopswroclaw_2016-10-25/Lukasz_Hryniuk_-_Linux_Docker_and_GitLabCI.pdf)
 
 2016-08-30
 ----------
