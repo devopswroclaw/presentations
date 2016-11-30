@@ -3,6 +3,11 @@
 
 Presentations from previous meetups
 ===================================
+2016-11-29
+----------
+- [Group updates / news / announcements](https://github.com/devopswroclaw/presentations/raw/master/slides/devopswroclaw_2016-11-29/2016-11_Group_updates_news_announcements.pdf)
+- Maciej Lasyk - systemd primer: bin, unit-files, nspawn, journald and sd-notify for systemd application integration
+
 2016-10-25
 ----------
 - [Group updates / news / announcements](https://github.com/devopswroclaw/presentations/raw/master/slides/devopswroclaw_2016-10-25/2016-10_Group_updates_news_announcements.pdf)
