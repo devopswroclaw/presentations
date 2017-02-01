@@ -3,6 +3,12 @@
 
 Presentations from previous meetups
 ===================================
+2017-01-31
+----------
+- Group updates / news / announcements
+- Michał Łowicki - Advanced Mesos and Marathon: monitoring, load balancing, live demo
+- [Tomasz Tarczyński - Monitoring as a Service: fault detection with sensu and puppet](https://github.com/devopswroclaw/presentations/raw/master/slides/devopswroclaw_2017-01-31/Tomasz_Tarczynski_-_Monitoring_as_a_Service.pdf)
+
 2016-11-29
 ----------
 - [Group updates / news / announcements](https://github.com/devopswroclaw/presentations/raw/master/slides/devopswroclaw_2016-11-29/2016-11_Group_updates_news_announcements.pdf)
