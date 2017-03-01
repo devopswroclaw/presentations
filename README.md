@@ -3,6 +3,13 @@
 
 Presentations from previous meetups
 ===================================
+
+2017-02-28
+----------
+- [Group updates / news / announcements](https://github.com/devopswroclaw/presentations/raw/master/slides/devopswroclaw_2017-02-28/2017-02_Group_updates_news_announcements.pdf)
+- Michał Bolek - Prometheus 101: get on the hype train
+- Szymon Święcki - Cloud services' architecture - introduction to AWS
+
 2017-01-31
 ----------
 - [Group updates / news / announcements](https://github.com/devopswroclaw/presentations/raw/master/slides/devopswroclaw_2017-01-31/2017-01_Group_updates_news_announcements.pdf)
