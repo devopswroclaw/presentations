@@ -4,6 +4,12 @@
 Presentations from previous meetups
 ===================================
 
+2017-03-28
+----------
+- [Group updates / news / announcements](https://github.com/devopswroclaw/presentations/raw/master/slides/devopswroclaw_2017-03-28/2017-03_Group_updates_news_announcements.pdf)
+- [Antoni Orfin - DevOps in droplr](https://github.com/devopswroclaw/presentations/raw/master/slides/devopswroclaw_2017-03-28/Antoni_Orfin_-_devops_in_droplr.pdf)
+- [Michał Jura - Kubernetes as a Service for everyone](https://github.com/devopswroclaw/presentations/raw/master/slides/devopswroclaw_2017-03-28/Michal_Jura_-_Kubernetes_as_a_Service_for_everyone.pdf)
+
 2017-02-28
 ----------
 - [Group updates / news / announcements](https://github.com/devopswroclaw/presentations/raw/master/slides/devopswroclaw_2017-02-28/2017-02_Group_updates_news_announcements.pdf)
