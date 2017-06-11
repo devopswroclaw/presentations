@@ -4,6 +4,12 @@
 Presentations from previous meetups
 ===================================
 
+2017-05-31
+----------
+- [Group updates / news / announcements](https://github.com/devopswroclaw/presentations/raw/master/slides/devopswroclaw_2017-05-31/2017-05_Group_updates_news_announcements.pdf)
+- [Nic Jackson - Live coding with AWS Lex, Slack and Terraform](https://nicholasjackson.io/2017/04/25/slack-bot-aws-lambda/)
+- [Piotr Kurpik - Building a Death Star A.K.A. GitLab in use](https://github.com/devopswroclaw/presentations/raw/master/slides/devopswroclaw_2017-05-31/Piotr_Kurpik-Building_a_Death_Star-A.K.A.-GitLab_in_use.pdf)
+
 2017-04-25
 ----------
 - [Group updates / news / announcements](https://github.com/devopswroclaw/presentations/raw/master/slides/devopswroclaw_2017-04-25/2017-04_Group_updates_news_announcements.pdf)
