@@ -4,6 +4,11 @@
 Presentations from previous meetups
 ===================================
 
+2017-06-26
+----------
+- [Group updates / news / announcements](https://github.com/devopswroclaw/presentations/raw/master/slides/devopswroclaw_2017-06-26/2017-06_Group_updates_news_announcements.pdf)
+- [Bartłomiej Marcinkowski - ELK story](https://github.com/devopswroclaw/presentations/raw/master/slides/devopswroclaw_2017-06-26/Bartlomiej_Marcinkowski_-_ELK_story.pdf)
+
 2017-05-31
 ----------
 - [Group updates / news / announcements](https://github.com/devopswroclaw/presentations/raw/master/slides/devopswroclaw_2017-05-31/2017-05_Group_updates_news_announcements.pdf)
