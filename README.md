@@ -4,6 +4,12 @@
 Presentations from previous meetups
 ===================================
 
+2017-10-31
+----------
+- [Group updates / news / announcements](https://github.com/devopswroclaw/presentations/raw/master/slides/devopswroclaw_2017-10-31/2017-10_Group_updates_news_announcements.pdf)
+- [Konrad Rotkiewicz - Kubernetes from scratch](https://github.com/devopswroclaw/presentations/raw/master/slides/devopswroclaw_2017-10-31/Konrad_Rotkiewicz_-_Kubernetes_from_scratch.pdf)
+- [Szymon Święcki - AWS Serverless implementation guide - API Gateway + Lambda](https://github.com/devopswroclaw/presentations/raw/master/slides/devopswroclaw_2017-10-31/Szymon_Swiecki_-_AWS_Serverless_implementation_guide.pdf)
+
 2017-09-18
 ----------
 - [Group updates / news / announcements](https://github.com/devopswroclaw/presentations/raw/master/slides/devopswroclaw_2017-09-18/2017-09_Group_updates_news_announcements.pdf)
