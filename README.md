@@ -4,6 +4,11 @@
 Presentations from previous meetups
 ===================================
 
+2017-09-18
+----------
+- [Group updates / news / announcements](https://github.com/devopswroclaw/presentations/raw/master/slides/devopswroclaw_2017-09-18/2017-09_Group_updates_news_announcements.pdf)
+- [Michał Wronski - Modern DevOps with Kubernetes](https://github.com/devopswroclaw/presentations/raw/master/slides/devopswroclaw_2017-09-18/Michal_Wronski_-_Modern_DevOps_with_Kubernetes.pdf)
+
 2017-06-26
 ----------
 - [Group updates / news / announcements](https://github.com/devopswroclaw/presentations/raw/master/slides/devopswroclaw_2017-06-26/2017-06_Group_updates_news_announcements.pdf)
@@ -19,7 +24,7 @@ Presentations from previous meetups
 ----------
 - [Group updates / news / announcements](https://github.com/devopswroclaw/presentations/raw/master/slides/devopswroclaw_2017-04-25/2017-04_Group_updates_news_announcements.pdf)
 - [Krzysztof Dajka - OpenStack deployment with Kolla, Ansible and Ceph](https://github.com/devopswroclaw/presentations/raw/master/slides/devopswroclaw_2017-04-25/Krzysztof_Dajka_-_OpenStack_deployment_with_Kolla_Ansible_and_Ceph.pdf)
-- Tomasz Paszkowski - OpenStack & Kubernetes - how to combine the world of containers and virtual machines
+- [Tomasz Paszkowski - OpenStack & Kubernetes - how to combine the world of containers and virtual machines](https://github.com/devopswroclaw/presentations/raw/master/slides/devopswroclaw_2017-04-25/Tomasz_Paszkowski_-_OpenStack_and_Kubernetes.pdf)
 
 2017-03-28
 ----------
