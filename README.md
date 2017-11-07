@@ -4,6 +4,11 @@
 Presentations from previous meetups
 ===================================
 
+2017-09-18
+----------
+- [Group updates / news / announcements](https://github.com/devopswroclaw/presentations/raw/master/slides/devopswroclaw_2017-09-18/2017-09_Group_updates_news_announcements.pdf)
+- [Michał Wronski - Modern DevOps with Kubernetes](https://github.com/devopswroclaw/presentations/raw/master/slides/devopswroclaw_2017-09-18/Michal_Wronski_-_Modern_DevOps_with_Kubernetes.pdf)
+
 2017-06-26
 ----------
 - [Group updates / news / announcements](https://github.com/devopswroclaw/presentations/raw/master/slides/devopswroclaw_2017-06-26/2017-06_Group_updates_news_announcements.pdf)
