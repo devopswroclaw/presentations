@@ -4,6 +4,17 @@
 Presentations from previous meetups
 ===================================
 
+2018-04-18
+----------
+- [Group updates / news / announcements](https://github.com/devopswroclaw/presentations/raw/master/slides/devopswroclaw_2018-04-18/2018-04_Group_updates_news_announcements.pdf)
+- Dmitry Kudelko - Advanced Prometheus
+- Mateusz Koszutowski - DevOps Success Stories
+
+2018-01-30
+----------
+- [Group updates / news / announcements](https://github.com/devopswroclaw/presentations/raw/master/slides/devopswroclaw_2018-01-30/2018-01_Group_updates_news_announcements.pdf)
+- [Michał Łowicki and Piotr Śliwka: Vault](https://github.com/devopswroclaw/presentations/raw/master/slides/devopswroclaw_2018-01-30/Michal_Lowicki_and_Piotr_Sliwka_-_Introduction_to_Vault.pdf)
+
 2017-10-31
 ----------
 - [Group updates / news / announcements](https://github.com/devopswroclaw/presentations/raw/master/slides/devopswroclaw_2017-10-31/2017-10_Group_updates_news_announcements.pdf)
