@@ -7,7 +7,7 @@ Presentations from previous meetups
 2018-06-26
 ----------
 - [Group updates / news / announcements](https://github.com/devopswroclaw/presentations/raw/master/slides/devopswroclaw_2018-06-26/2018-06_Group_updates_news_announcements.pdf)
-- Tomasz Ziółkowski - Reverse proxy automation - Varnish as a Service
+- [Tomasz Ziółkowski - Reverse proxy automation - Varnish as a Service](https://github.com/devopswroclaw/presentations/raw/master/slides/devopswroclaw_2018-06-26/Tomasz_Ziolkowski_-_Reverse_proxy_automation_-_Varnish_as_a_Service.pdf)
 - [Tomasz Tarczyński - Evolution of the IoT backend platform. From a monolith to microservices and toward cloud native infrastructure.](https://github.com/devopswroclaw/presentations/raw/master/slides/devopswroclaw_2018-06-26/Tomasz_Tarczynski_-_Evolution_of_the_IoT_backend_platform.pdf)
 
 2018-04-18
