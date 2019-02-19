@@ -4,6 +4,23 @@
 Presentations from previous meetups
 ===================================
 
+2019-02-12
+----------
+- [Group updates / news / announcements](https://github.com/devopswroclaw/presentations/raw/master/slides/devopswroclaw_2019-02-12/2019-02_Group_updates_news_announcements.pdf)
+- [Miłosz Tyborowski - CI with Gerrit and Jenkins in a way you would never imagine!](https://github.com/devopswroclaw/presentations/raw/master/slides/devopswroclaw_2019-02-12/Milosz_Tyborowski_-_CI_with_Gerrit_and_Jenkins_in_a_way_you_would_never_imagine.pdf)
+- [Michał Wcisło - K8s as a Service with Rancher](https://github.com/devopswroclaw/presentations/raw/master/slides/devopswroclaw_2019-02-12/Michal_Wcislo_-_K8s_as_a_Service_with_Rancher.pdf)
+
+2018-11-27
+----------
+- Group updates / news / announcements
+- Jan Rotter - Rule the AWS with Sceptre
+- Wojciech Barczyński  - Effective Kubernetes: Zero-downtime deployment strategies for your microservice to not drop a single request
+
+2018-09-25
+----------
+- Group updates / news / announcements
+- Thomas Witt - Backstage report: Keeping a production SaaS environment running on AWS
+
 2018-06-26
 ----------
 - [Group updates / news / announcements](https://github.com/devopswroclaw/presentations/raw/master/slides/devopswroclaw_2018-06-26/2018-06_Group_updates_news_announcements.pdf)
