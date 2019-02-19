@@ -13,8 +13,8 @@ Presentations from previous meetups
 2018-11-27
 ----------
 - Group updates / news / announcements
-- Jan Rotter - Rule the AWS with Sceptre
-- Wojciech Barczyński  - Effective Kubernetes: Zero-downtime deployment strategies for your microservice to not drop a single request
+- [Jan Rotter - Rule the AWS with Sceptre](https://github.com/janrotter/sceptre_devops_meetup)
+- [Wojciech Barczyński  - Effective Kubernetes: Zero-downtime deployment strategies for your microservice to not drop a single request](https://www.slideshare.net/WojciechBarczyski/zero-downtime-deployment-of-microservices-with-kubernetes)
 
 2018-09-25
 ----------
