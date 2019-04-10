@@ -4,6 +4,11 @@
 Presentations from previous meetups
 ===================================
 
+2019-04-09
+----------
+- [Group updates / news / announcements](https://github.com/devopswroclaw/presentations/raw/master/slides/devopswroclaw_2019-04-09/2019-04_Group_updates_news_announcements.pdf)
+- [Piotr Kłoskowski - Istio Service Mesh](https://github.com/devopswroclaw/presentations/raw/master/slides/devopswroclaw_2019-04-09/Piotr_Kloskowski_-_Istio_Service_Mesh.pdf)
+
 2019-02-12
 ----------
 - [Group updates / news / announcements](https://github.com/devopswroclaw/presentations/raw/master/slides/devopswroclaw_2019-02-12/2019-02_Group_updates_news_announcements.pdf)
