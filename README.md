@@ -7,7 +7,8 @@ Presentations from previous meetups
 2019-04-09
 ----------
 - [Group updates / news / announcements](https://github.com/devopswroclaw/presentations/raw/master/slides/devopswroclaw_2019-04-09/2019-04_Group_updates_news_announcements.pdf)
-- [Piotr Kłoskowski - Istio Service Mesh](https://github.com/devopswroclaw/presentations/raw/master/slides/devopswroclaw_2019-04-09/Piotr_Kloskowski_-_Istio_Service_Mesh.pdf)
+- [Piotr Kłoskowski - Istio Service Mesh - when and why you should use it in your Kubernetes solution](https://github.com/devopswroclaw/presentations/raw/master/slides/devopswroclaw_2019-04-09/Piotr_Kloskowski_-_Istio_Service_Mesh.pdf)
+- [Błażej Kwasniak - Knative - new hero in serverless world](https://github.com/devopswroclaw/presentations/raw/master/slides/devopswroclaw_2019-04-09/Blazej_Kwasniak_-_Knative.pdf)
 
 2019-02-12
 ----------
