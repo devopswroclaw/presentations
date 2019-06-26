@@ -4,6 +4,12 @@
 Presentations from previous meetups
 ===================================
 
+2019-06-25
+----------
+- [Group updates / news / announcements](https://github.com/devopswroclaw/presentations/blob/master/slides/devopswroclaw_2019-06-25/2019-06_Group_updates_news_announcements.pdf)
+- [Paweł Gronkiewicz - DevOps Engineer - what does it really mean](https://github.com/devopswroclaw/presentations/blob/master/slides/devopswroclaw_2019-06-25/Pawel_Gronkiewicz-DevOps_Engineer.pdf)
+- Tomasz Tarczyński - Kubernetes Config Management: Helm + GitOps
+
 2019-04-09
 ----------
 - [Group updates / news / announcements](https://github.com/devopswroclaw/presentations/raw/master/slides/devopswroclaw_2019-04-09/2019-04_Group_updates_news_announcements.pdf)
