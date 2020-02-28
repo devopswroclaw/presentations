@@ -6,9 +6,9 @@ Presentations from previous meetups
 
 2020-02-27
 ----------
-- [Group updates / news / announcements](https://github.com/devopswroclaw/presentations/blob/master/slides/devopswroclaw_2020-02-27/2020-02_Group_updates_news_announcements.pdf)
-- [Paweł Błaszyk - Ansible with Azure](https://github.com/devopswroclaw/presentations/blob/master/slides/devopswroclaw_2020-02-27/Pawel_Blaszyk_-_Ansible_with_Azure.pdf)
-  - [Demo Source Code](https://github.com/devopswroclaw/presentations/blob/master/materials/devopswroclaw_2020-02-27/Pawel_Blaszyk_-_Ansible_with_Azure.zip)
+- [Group updates / news / announcements](https://github.com/devopswroclaw/presentations/raw/master/slides/devopswroclaw_2020-02-27/2020-02_Group_updates_news_announcements.pdf)
+- [Paweł Błaszyk - Ansible with Azure](https://github.com/devopswroclaw/presentations/raw/master/slides/devopswroclaw_2020-02-27/Pawel_Blaszyk_-_Ansible_with_Azure.pdf)
+  - [Demo Source Code](https://github.com/devopswroclaw/presentations/raw/master/materials/devopswroclaw_2020-02-27/Pawel_Blaszyk_-_Ansible_with_Azure.zip)
 - Damian Florczyk - "How to manage and automate configuration of Jenkins Farm"
 
 2019-12-04
@@ -28,9 +28,9 @@ Presentations from previous meetups
 
 2019-06-25
 ----------
-- [Group updates / news / announcements](https://github.com/devopswroclaw/presentations/blob/master/slides/devopswroclaw_2019-06-25/2019-06_Group_updates_news_announcements.pdf)
-- [Paweł Gronkiewicz - DevOps Engineer - what does it really mean](https://github.com/devopswroclaw/presentations/blob/master/slides/devopswroclaw_2019-06-25/Pawel_Gronkiewicz-DevOps_Engineer.pdf)
-- [Tomasz Tarczyński - Kubernetes Config Management: Helm + GitOps](https://github.com/devopswroclaw/presentations/blob/master/slides/devopswroclaw_2019-06-25/Tomasz_Tarczynski_-_Config_management_for_Kubernetes_-_GitOps_+_Helm.pdf)
+- [Group updates / news / announcements](https://github.com/devopswroclaw/presentations/raw/master/slides/devopswroclaw_2019-06-25/2019-06_Group_updates_news_announcements.pdf)
+- [Paweł Gronkiewicz - DevOps Engineer - what does it really mean](https://github.com/devopswroclaw/presentations/raw/master/slides/devopswroclaw_2019-06-25/Pawel_Gronkiewicz-DevOps_Engineer.pdf)
+- [Tomasz Tarczyński - Kubernetes Config Management: Helm + GitOps](https://github.com/devopswroclaw/presentations/raw/master/slides/devopswroclaw_2019-06-25/Tomasz_Tarczynski_-_Config_management_for_Kubernetes_-_GitOps_+_Helm.pdf)
 
 2019-04-09
 ----------
