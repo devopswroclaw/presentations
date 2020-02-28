@@ -8,7 +8,7 @@ Presentations from previous meetups
 ----------
 - [Group updates / news / announcements](https://github.com/devopswroclaw/presentations/blob/master/slides/devopswroclaw_2020-02-27/2020-02_Group_updates_news_announcements.pdf)
 - [Paweł Błaszyk - Ansible with Azure](https://github.com/devopswroclaw/presentations/blob/master/slides/devopswroclaw_2020-02-27/Pawel_Blaszyk_-_Ansible_with_Azure.pdf)
-  - [Demo Source Code](](https://github.com/devopswroclaw/presentations/blob/master/materials/devopswroclaw_2020-02-27/Pawel_Blaszyk_-_Ansible_with_Azure.zip)
+  - [Demo Source Code](https://github.com/devopswroclaw/presentations/blob/master/materials/devopswroclaw_2020-02-27/Pawel_Blaszyk_-_Ansible_with_Azure.zip)
 - Damian Florczyk - "How to manage and automate configuration of Jenkins Farm"
 
 2019-12-04
