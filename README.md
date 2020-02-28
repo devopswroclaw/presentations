@@ -4,6 +4,28 @@
 Presentations from previous meetups
 ===================================
 
+2020-02-27
+----------
+- [Group updates / news / announcements](https://github.com/devopswroclaw/presentations/blob/master/slides/devopswroclaw_2020-02-27/2020-02_Group_updates_news_announcements.pdf)
+- [Paweł Błaszyk - Ansible with Azure](https://github.com/devopswroclaw/presentations/blob/master/slides/devopswroclaw_2020-02-27/Pawel_Blaszyk_-_Ansible_with_Azure.pdf)
+  - [Demo Source Code](](https://github.com/devopswroclaw/presentations/blob/master/materials/devopswroclaw_2020-02-27/Pawel_Blaszyk_-_Ansible_with_Azure.zip)
+- Damian Florczyk - "How to manage and automate configuration of Jenkins Farm"
+
+2019-12-04
+----------
+- Krzysztof Ciszak – "A gentle introduction to AWS CDK"
+- Mateusz Dymiński – "Understanding Kubernetes Storage"
+
+2019-11-06
+----------
+- Wojciech Guzik and Krzysztof Kaczorowski – "CI/CD pipeline for custom Powershell Module with Azure DevOps and NuGet"
+- Wojciech Kaminski and Jacek Czernik – "Don't be blind in the (multi)cloud - Azure Monitor as end-to-end observability solution"
+
+2019-09-12
+----------
+- Adrian Synal – "Overcoming deployment complexity with INFOR’s tool - FARO"
+- Piotr Kurpik and Artur Frysiak – "4 years with GitLab at Ocado Technology"
+
 2019-06-25
 ----------
 - [Group updates / news / announcements](https://github.com/devopswroclaw/presentations/blob/master/slides/devopswroclaw_2019-06-25/2019-06_Group_updates_news_announcements.pdf)
@@ -31,7 +53,7 @@ Presentations from previous meetups
 2018-09-25
 ----------
 - Group updates / news / announcements
-- Thomas Witt - Backstage report: Keeping a production SaaS environment running on AWS
+- Thomas Witt - "Backstage report: Keeping a production SaaS environment running on AWS"
 
 2018-06-26
 ----------
@@ -42,8 +64,8 @@ Presentations from previous meetups
 2018-04-18
 ----------
 - [Group updates / news / announcements](https://github.com/devopswroclaw/presentations/raw/master/slides/devopswroclaw_2018-04-18/2018-04_Group_updates_news_announcements.pdf)
-- Dmitry Kudelko - Advanced Prometheus
-- Mateusz Koszutowski - DevOps Success Stories
+- Dmitry Kudelko - "Advanced Prometheus"
+- Mateusz Koszutowski - "DevOps Success Stories"
 
 2018-01-30
 ----------
